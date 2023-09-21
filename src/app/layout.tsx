@@ -1,3 +1,4 @@
+import '../styles/global.scss'
 import type { Metadata } from 'next'
 
 import { Roboto } from 'next/font/google'
